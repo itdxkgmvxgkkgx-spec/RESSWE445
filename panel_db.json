@@ -11,6 +11,7 @@
         "created_at": 1787606972,
         "expire_seconds": 25920002722,
         "active": true,
-        "coefficient": 10.0
+        "coefficient": 10.0,
+        "sub_token": "EWRZ5YLbICNSDX1MJhbo_dR5"
     }
 }
